@@ -7,8 +7,6 @@ public class TestModel {
 		 
 		System.out.println(modello.getSoluzioni().toString());
 		
-		//ciao
-
 	}
 
 }
